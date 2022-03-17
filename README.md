@@ -1,2 +1,2 @@
-Base de datos distribuida simple
+# Base de datos distribuida simple
 
