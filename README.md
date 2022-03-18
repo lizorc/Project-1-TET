@@ -27,7 +27,7 @@ Requisimientos a cumplir:
 
 ## Propuesta de diseño
 
-![Blank diagram](https://user-images.githubusercontent.com/79216103/159069363-a69a28ab-245e-43b0-98a0-a0c4f9dfad23.png)
+![Blank diagram (1)](https://user-images.githubusercontent.com/79216103/159071076-2e4f07e3-0aed-4eaa-aa3c-5db5e98f100f.png)
 
 
 ## Participantes
