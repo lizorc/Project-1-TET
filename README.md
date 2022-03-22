@@ -29,6 +29,8 @@ Requisimientos a cumplir:
 
 ![Blank diagram (1)](https://user-images.githubusercontent.com/79216103/159071076-2e4f07e3-0aed-4eaa-aa3c-5db5e98f100f.png)
 
+![Blank diagram](https://user-images.githubusercontent.com/79216103/159517282-08822f65-2806-46b4-b940-4ce8f7067e26.png)
+
 
 ## Participantes
 - Julian Ramirez Giraldo
